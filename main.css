@@ -1,0 +1,38 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FF0000;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-size: 50px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-style: solid;
+    width: 180px;
+    height: 60px;
+}
+
+li a:hover {
+     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7TS9j7PkJh47GN6sG2RfBCB6jw94DzmgIhYWXDFC0YO8h3HzJ");
+}
+img {
+    height: 200px;
+    width: 200px;
+    
+}
+p {
+    background-color: firebrick;
+}
+
+body {
+    background-image: url("https://pbs.twimg.com/profile_images/510073626465271809/ES7BIMzU_400x400.png");
