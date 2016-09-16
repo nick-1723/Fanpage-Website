@@ -4,6 +4,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #FF0000;
+    width: 540px;
 }
 
 li {
@@ -28,11 +29,16 @@ li a:hover {
 img {
     height: 200px;
     width: 200px;
-    
 }
+
 p {
     background-color: firebrick;
 }
 
 body {
     background-image: url("https://pbs.twimg.com/profile_images/510073626465271809/ES7BIMzU_400x400.png");
+}
+
+backgroundcolor {
+    background-color: blue;
+}
