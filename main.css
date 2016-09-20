@@ -4,7 +4,6 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #FF0000;
-    width: 540px;
 }
 
 li {
@@ -14,7 +13,6 @@ li {
 li a {
     display: block;
     color: white;
-    text-size: 50px;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -28,17 +26,22 @@ li a:hover {
 }
 img {
     height: 200px;
-    width: 200px;
+    width: 275px;
+    
 }
-
 p {
     background-color: firebrick;
+    padding: 50px; 
 }
 
 body {
     background-image: url("https://pbs.twimg.com/profile_images/510073626465271809/ES7BIMzU_400x400.png");
 }
 
-backgroundcolor {
+h1 {
+    background-color: firebrick; 
+}
+
+imgbackground {
     background-color: blue;
 }
