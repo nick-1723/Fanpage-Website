@@ -31,7 +31,7 @@ img {
 }
 p {
     background-color: firebrick;
-    padding: 50px; 
+    padding: 50px 50px 50px 50px; 
 }
 
 body {
@@ -39,9 +39,12 @@ body {
 }
 
 h1 {
+    margin: 75px 100px 75px 100px;
     background-color: firebrick; 
 }
 
 imgbackground {
+    margin: 100px 100px 100px 100px;
     background-color: blue;
+    
 }
