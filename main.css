@@ -27,10 +27,8 @@ li a:hover {
 img {
     height: 200px;
     width: 275px;
-    
 }
 p {
-    background-color: firebrick;
     padding: 50px 50px 50px 50px; 
 }
 
@@ -40,11 +38,10 @@ body {
 
 h1 {
     margin: 75px 100px 75px 100px;
-    background-color: firebrick; 
 }
 
-imgbackground {
-    margin: 100px 100px 100px 100px;
-    background-color: blue;
-    
+.imgbackground {
+    margin: 100px;
+    background-color: firebrick; 
+    padding: 20px;
 }
