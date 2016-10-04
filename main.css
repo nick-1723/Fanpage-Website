@@ -31,6 +31,7 @@ img {
 p {
     padding: 30px; 
     background-color: #981010;
+    border-style: groove;
 }
 
 body {
@@ -38,9 +39,10 @@ body {
 }
 
 h1 {
-    background-color: #000000;
+    background-color: #1D2284;
     margin: 75px 100px 75px 100px;
     color: #FBFBFB;
+    text-align: center;
 }
 
 .imgbackground {
@@ -48,5 +50,4 @@ h1 {
     background-color: firebrick; 
     padding: 20px;
 }
-
 
