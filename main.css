@@ -31,7 +31,9 @@ img {
 }
 p {
     padding: 30px;
-    background-color: #958320;
+    list-style-type: none;
+    padding: 35px;
+    background-color: #A90000;
 }
 
 body {
@@ -39,8 +41,9 @@ body {
 }
 
 h1 {
+    width: 800px;
     background-color: #1D2284;
-    margin: 75px 100px 75px 100px;
+    margin-left: 75px;
     color: #FBFBFB;
     text-align: center;
 }
