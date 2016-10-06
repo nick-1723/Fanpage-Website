@@ -27,11 +27,11 @@ li a:hover {
 img {
     height: 200px;
     width: 275px;
+    margin: 30px;
 }
 p {
-    padding: 30px; 
-    background-color: #981010;
-    border-style: groove;
+    padding: 30px;
+    background-color: #958320;
 }
 
 body {
@@ -45,9 +45,14 @@ h1 {
     text-align: center;
 }
 
-.imgbackground {
+.row1 {
     margin: 100px;
-    background-color: firebrick; 
+    background-color: #0F40D1; 
     padding: 20px;
 }
-
+container {
+    background-color: #092FA0;
+}
+h2 {
+    background-color: #0F40D1;
+}
