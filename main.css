@@ -4,6 +4,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #FF0000;
+    width: 540px;
 }
 
 li {
@@ -15,7 +16,6 @@ li a {
     color: white;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
     border-style: solid;
     width: 180px;
     height: 60px;
@@ -26,14 +26,13 @@ li a:hover {
 }
 img {
     height: 200px;
-    width: 275px;
+    width: 175px;
     margin: 30px;
 }
 p {
-    padding: 30px;
+    padding: 20px 15px;
     list-style-type: none;
-    padding: 35px;
-    background-color: #A90000;
+    background-color: #B32B2B;
 }
 
 body {
@@ -41,10 +40,8 @@ body {
 }
 
 h1 {
-    width: 800px;
-    background-color: #1D2284;
+    background-color: #1372BB;
     margin-left: 75px;
-    color: #FBFBFB;
     text-align: center;
 }
 
@@ -57,5 +54,9 @@ container {
     background-color: #092FA0;
 }
 h2 {
-    background-color: #0F40D1;
+    background-color: #1372BB;
+    text-align: center;
+}
+.#shoutouts {
+    background-image: url ("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6zyx-7lem7YmBGk0wvv1XU_EUVsKXKeJLuBrnbCPfXbOgIBx13w")
 }
