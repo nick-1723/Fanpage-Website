@@ -39,10 +39,16 @@ body {
     background-image: url("https://pbs.twimg.com/profile_images/510073626465271809/ES7BIMzU_400x400.png");
 }
 
-h1 {
+.banner {
     background-color: #1372BB;
-    margin-left: 75px;
+    padding: 5px;
     text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+.banner h1{
+    font-size: 45px;
+    color: #B32B2B;
 }
 
 .row1 {
