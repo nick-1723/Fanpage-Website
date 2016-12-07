@@ -56,13 +56,16 @@ body {
     background-color: #0F40D1; 
     padding: 20px;
 }
+
 container {
     background-color: #092FA0;
 }
-h2 {
+
+h1 {
     background-color: #1372BB;
     text-align: center;
 }
-.#shoutouts {
-    background-image: url ("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6zyx-7lem7YmBGk0wvv1XU_EUVsKXKeJLuBrnbCPfXbOgIBx13w")
+
+.carousel-inner{
+    width: 550px;
 }
