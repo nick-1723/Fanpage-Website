@@ -30,7 +30,7 @@ img {
     margin: 30px;
 }
 p {
-    padding: 20px 15px;
+    padding: 25px 20px;
     list-style-type: none;
     background-color: #B32B2B;
 }
@@ -48,7 +48,7 @@ body {
 
 .banner h1{
     font-size: 45px;
-    color: #B32B2B;
+    color: #96171A;
 }
 
 .row1 {
@@ -56,16 +56,36 @@ body {
     background-color: #0F40D1; 
     padding: 20px;
 }
-
 container {
     background-color: #092FA0;
 }
-
-h1 {
+h2 {
     background-color: #1372BB;
     text-align: center;
 }
+.#shoutouts {
+    background-image: url ("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6zyx-7lem7YmBGk0wvv1XU_EUVsKXKeJLuBrnbCPfXbOgIBx13w")
+}
 
-.carousel-inner{
-    width: 550px;
+form {
+    float: right;
+}
+
+button{
+    float: right;
+}
+
+.imgbackground {
+    background-color: #1372BB;
+}
+
+label {
+    margin: 10px;
+    text-align: center;
+}
+
+h3 {
+    background-color: #1372BB;
+    text-align: center;
+    margin-top: 30px 30px;
 }
