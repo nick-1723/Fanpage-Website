@@ -1,5 +1,15 @@
 $(document).ready(function() {
+    $('button').click(function() {
+    	var toAdd = $("input[name=message]").val();
+        $('#messages').append("<div id='messages'>"+toAdd+"</div>");
+   });
+    $('document').on('click','#messages',function(){
+       $(this).remove(); 
+    });
    $('img').click(function() {
        $(this).toggle(1000);
    }); 
+    $( function() {
+    $( "input" ).checkboxradio();
+   });
 });
