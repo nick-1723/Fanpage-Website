@@ -89,3 +89,20 @@ h3 {
     text-align: center;
     margin-top: 30px 30px;
 }
+
+footer {
+    width: 230px;
+    text-align: center;
+    opacity: .9;
+    border-radius: 5em;
+    margin-left: 500px;
+    margin-top: 5px;
+}
+
+.mic {
+    position: relative;
+    left: 0;
+    top: 0;
+    height: 100px;
+    width: 100px;
+}
